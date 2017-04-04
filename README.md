@@ -2,4 +2,6 @@
 
 These are my solutions for interview cake. YMMV
 
-Right now I'm using python. Maybe I'll go back and use another language.
+These are not the posted solutions and there's no explanation!
+
+Right now I'm using python and so does the site.
